@@ -1,0 +1,25 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolver Front End Junior",
+      "descricao": "Trabalhar com Angular",
+      "foto": "image_1.jpeg",
+      "salario": 5000
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolver Back End Pleno",
+      "descricao": "Trabalhar com Spring Boot",
+      "foto": "image_2.jpeg",
+      "salario": 7000
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolver Full Stack Senior",
+      "descricao": "Trabalhar com Angular e Spring",
+      "foto": "image_3.jpeg",
+      "salario": 10000
+    }
+  ]
+}

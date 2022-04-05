@@ -1,0 +1,12 @@
+<div class="row m-2">
+  <div class="card m-2" style="width: 18rem;" *ngFor="let vaga of vagas">
+    <img src="assets/img/{{vaga.foto}}" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">ID: {{vaga.id}}</h5>
+      <h5 class="card-title">VAGA: {{vaga.nome}}</h5>
+      <h5 class="card-title">DESCRIÇÃO: {{vaga.descricao}}</h5>
+      <h5 class="card-title">SALARIO: R${{vaga.salario}},00</h5>
+      <a href="#" class="btn btn-primary">Voltar</a>
+    </div>
+  </div>
+</div>

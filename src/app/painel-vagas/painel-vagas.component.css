@@ -1,0 +1,24 @@
+h2, form{
+    margin-left: 10px;
+}
+
+input {
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-left: 5px;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: rgb(165, 214, 133);
+    border: none;
+    border-radius: 3px;
+    margin-left: 5px; 
+}
+
+button:hover {
+    background-color: rgb(135, 175, 108);
+}
